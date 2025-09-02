@@ -1,0 +1,1 @@
+# Business Partner AI-infused Java and DevOps TechJam, an IBM TechXchange Workshop

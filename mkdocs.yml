@@ -1,0 +1,6 @@
+site_name: Business Partner AI-infused Java and DevOps TechJam, an IBM TechXchange Workshop
+nav:
+  - Home: index.md
+  - Hands-on Labs: labs.md
+theme: readthedocs  
+extra_css: ["extra.css"]
